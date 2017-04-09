@@ -1,7 +1,6 @@
 # Useful GNOME Shell Extensions
 
-The GNOME 3 Desktop is a user-friendly modern desktop environment that is ideal
-for novice Linux users as well as experienced Linux users.
+The [GNOME 3 Desktop](https://www.gnome.org/) is a user-friendly modern desktop environment that is ideal for novice Linux users as well as experienced Linux users.
 However, the vanilla GNOME 3 Shell lacks some useful features for the daily use.
 
 This is where the GNOME Shell extensions come into play.
