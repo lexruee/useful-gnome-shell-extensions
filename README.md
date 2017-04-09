@@ -46,7 +46,7 @@ Purpose:
 
 Links:
 
- - [Gnome Extension](https://extensions.gnome.org/extension/517/caffeine/)
+ - [GNOME Extension](https://extensions.gnome.org/extension/517/caffeine/)
  - [Github Repository](https://github.com/eonpatapon/gnome-shell-extension-caffeine)
 
 
@@ -64,7 +64,7 @@ Purpose:
 
 Links:
 
- - [Gnome Extension](https://extensions.gnome.org/extension/657/shelltile/)
+ - [GNOME Extension](https://extensions.gnome.org/extension/657/shelltile/)
  - [Github Repository](https://github.com/emasab/shelltile)
 
 
@@ -82,7 +82,7 @@ Purpose:
 
 Links:
 
- - [Gnome Extension](https://extensions.gnome.org/extension/15/alternatetab/)
+ - [GNOME Extension](https://extensions.gnome.org/extension/15/alternatetab/)
  - [Git GNOME Repository](https://git.gnome.org//browse/gnome-shell-extensions)
 
 
@@ -100,7 +100,7 @@ Purpose:
 
 Links:
 
- - [Gnome Extension](https://extensions.gnome.org/extension/6/applications-menu/)
+ - [GNOME Extension](https://extensions.gnome.org/extension/6/applications-menu/)
  - [Git GNOME Repository](http://git.gnome.org/gnome-shell-extensions)
 
 
@@ -118,7 +118,7 @@ Purpose:
 
 Links:
 
- - [Gnome Extension](https://extensions.gnome.org/extension/307/dash-to-dock/)
+ - [GNOME Extension](https://extensions.gnome.org/extension/307/dash-to-dock/)
  - [Project Website](https://micheleg.github.io/dash-to-dock/index.html)
  - [GitHub Repository](https://github.com/micheleg/dash-to-dock.git)
 
@@ -136,7 +136,7 @@ Purpose:
 
 Links:
 
- - [Gnome Extension](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/)
+ - [GNOME Extension](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/)
  - [Project Website](http://evanwelsh.com/dynamic-panel-transparency/)
  - [GitHub Repository](https://github.com/rockon999/dynamic-panel-transparency)
 
@@ -154,7 +154,7 @@ Purpose:
 
 Links:
 
- - [Gnome Extension](https://extensions.gnome.org/extension/826/suspend-button/)
+ - [GNOME Extension](https://extensions.gnome.org/extension/826/suspend-button/)
  - [GitHub Repository](https://github.com/laserb/gnome-shell-extension-suspend-button)
 
 
@@ -171,5 +171,5 @@ Purpose:
 
 Links:
 
- - [Gnome Extension](https://extensions.gnome.org/extension/427/workspaces-to-dock/)
+ - [GNOME Extension](https://extensions.gnome.org/extension/427/workspaces-to-dock/)
  - [GitHub Repository](https://github.com/passingthru67/workspaces-to-dock)
