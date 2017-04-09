@@ -32,7 +32,7 @@ So here is a list of my installed GNOME extensions:
 
 ## Caffeine
 
- []()  | []()
+ Screenshot  | Description
 ---|-------
 ![Caffeine](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/caffeine.png)  | This little extension disables the screensaver and auto suspend. Once installed, a coffee icon appears on the left of the top panel.
 
@@ -50,7 +50,7 @@ Links:
 
 ## ShellTile
 
- []()  | []()
+ Screenshot  | Description
 ---|-------
 ![ShellTile](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/edge_tiling.gif)  | ShellTile is a tiling window extension. A the name suggests, it extends the GNOME Shell by introducing window tiling functionality. Users can resize a Window by dragging it to the edge or corner of the screen.
 
@@ -68,7 +68,7 @@ Links:
 
 ## AlternateTab
 
- []()  | []()
+ Screenshot  | Description
 ---|-------
 ![AlternateTab](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/alternatetab.png)  | AlternateTab is a one of the the older extensions. It substitutes Alt-Tab with a window based switcher that does not group by application. Moreover, AlternateTab is part of the GNOME Classic Mode and is officially supported by GNOME.
 
@@ -86,7 +86,7 @@ Links:
 
 ## Applications Menu
 
- []()  | []()
+ Screenshot  | Description
 ---|-------
 ![Applications Menu](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/appmenu.png)  | This extension adds a category-based menu for applications to the GNOME Shell. Like the AlternateTab extension, the Applications Menu is part of the GNOME Classic Mode and is officially supported by the GNOME team.
 
@@ -104,7 +104,7 @@ Links:
 
 ## Dash to Dock
 
- []()  | []()
+ Screenshot  | Description
 ---|-------
 ![Dash to Dock](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/dashtodock.png)  | Dash to Dock is a great extension. As its name indicates, it transforms the dash from the GNOME application overview into a dock. As a result, users can launch applications more easily and switch between windows more rapidly.
 
@@ -123,7 +123,7 @@ Links:
 
 ## Dynamic Panel Transparency
 
- []()  | []()
+ Screenshot  | Description
 ---|-------
 ![Dynamic Panel Transparency](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/dpt.png)  | This little extension makes the black top panel transparent when there are no maximized windows present.
 
@@ -141,7 +141,7 @@ Links:
 
 ## Suspend Button
 
- []()  | []()
+ Screenshot  | Description
 ---|-------
 ![Suspend Button](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/suspend-button.png)  | Unfortunately, the default GNOME status menu has no suspend button. Thanks to the Suspend Button extension this feature can be easily added to the menu.
 
@@ -158,7 +158,7 @@ Links:
 
 ## Workspaces to Dock
 
- []()  | []()
+ Screenshot  | Description
 ---|-------
 ![Workspaces to Dock](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/workspaces-to-dock.png)  | Another nice extension is Workspaces to Dock. This extension transforms the GNOME Shell's overview workspaces into an intelligent dock of workspaces.
 
