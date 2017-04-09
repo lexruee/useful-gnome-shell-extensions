@@ -6,17 +6,28 @@ However, the vanilla GNOME 3 Shell lacks some useful features for the daily use.
 
 This is where the GNOME Shell extensions come into play.
 They allow end users to customize their GNOME 3 Shell by installing a few
-extensions from the GNOME webiste [extensions.gnome.org](http://extensions.gnome.org).
+extensions from the GNOME website [extensions.gnome.org](http://extensions.gnome.org).
+
+
+![GNOME 3 desktop environment](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/gnome3-de-800x450.png)
+
 
 Since I always forget the names of my favourite extensions,
 I decided to keep a list of these handy extensions.
 This is why this GitHub repository was created.
-The latter lists a few useful GNOME shell extensions that customize the vanilla GNOME 3 Shell into a more usable desktop environment. The screenshot below illustrates my customized GNOME 3 desktop
+The latter lists a few useful GNOME shell extensions that customize the vanilla GNOME 3 Shell into a more usable desktop environment. The screenshot above illustrates my customized GNOME 3 desktop
 once I installed and configured some extensions.
 
+So here is a list of my installed GNOME extensions:
 
-
-![GNOME 3 desktop environment](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/gnome3-de-800x450.png)
+ - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)
+ - [ShellTile](https://extensions.gnome.org/extension/657/shelltile/)
+ - [AlternateTab](https://extensions.gnome.org/extension/15/alternatetab/)
+ - [Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/)
+ - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
+ - [Dynamic Panel Transparency](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/)
+ - [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/)
+ - [Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/)
 
 
 ## Caffeine
