@@ -20,14 +20,16 @@ once I installed and configured some extensions.
 
 So here is a list of my installed GNOME extensions:
 
- - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)
- - [ShellTile](https://extensions.gnome.org/extension/657/shelltile/)
- - [AlternateTab](https://extensions.gnome.org/extension/15/alternatetab/)
- - [Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/)
- - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
- - [Dynamic Panel Transparency](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/)
- - [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/)
- - [Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/)
+Extension | Purpose
+----------|-----------
+[Caffeine](https://extensions.gnome.org/extension/517/caffeine/) | Disable the screensaver and auto suspend.
+[ShellTile](https://extensions.gnome.org/extension/657/shelltile/) | Extend the GNOME Shell with window tiling functionality.
+[AlternateTab](https://extensions.gnome.org/extension/15/alternatetab/) | Substitute Alt-Tab with a window based switcher that does not group by application.
+[Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/) | Add a category-based menu for applications.
+[Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) | Transform the dash from the GNOME application overview into a dock.
+[Dynamic Panel Transparency](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/) | Make the black top panel transparent when there are no maximized windows present.
+[Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) | Add a suspend button to the GNOME status menu.
+[Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) | Transform GNOME Shell's overview workspaces into an intelligent dock.
 
 
 ## Caffeine
