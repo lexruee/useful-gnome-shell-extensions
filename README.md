@@ -30,8 +30,9 @@ Extension | Purpose
 [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) | Add a suspend button to the GNOME status menu.
 [Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) | Transform GNOME Shell's overview workspaces into an intelligent dock.
 
+## Extensions
 
-## Caffeine
+### Caffeine
 
  Screenshot  | Description
 ---|-------
@@ -49,11 +50,11 @@ Links:
  - [Github Repository](https://github.com/eonpatapon/gnome-shell-extension-caffeine)
 
 
-## ShellTile
+### ShellTile
 
  Screenshot  | Description
 ---|-------
-![ShellTile](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/edge_tiling.gif)  | ShellTile is a tiling window extension. A the name suggests, it extends the GNOME Shell by introducing window tiling functionality. Users can resize a Window by dragging it to the edge or corner of the screen.
+![ShellTile](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/edge_tiling.gif)  | ShellTile is a tiling window extension. As the name suggests, it extends the GNOME Shell by introducing window tiling functionality. Users can resize a Window by dragging it to the edge or corner of the screen.
 
 
 Purpose:
@@ -67,7 +68,7 @@ Links:
  - [Github Repository](https://github.com/emasab/shelltile)
 
 
-## AlternateTab
+### AlternateTab
 
  Screenshot  | Description
 ---|-------
@@ -85,7 +86,7 @@ Links:
  - [Git GNOME Repository](https://git.gnome.org//browse/gnome-shell-extensions)
 
 
-## Applications Menu
+### Applications Menu
 
  Screenshot  | Description
 ---|-------
@@ -103,7 +104,7 @@ Links:
  - [Git GNOME Repository](http://git.gnome.org/gnome-shell-extensions)
 
 
-## Dash to Dock
+### Dash to Dock
 
  Screenshot  | Description
 ---|-------
@@ -122,7 +123,7 @@ Links:
  - [GitHub Repository](https://github.com/micheleg/dash-to-dock.git)
 
 
-## Dynamic Panel Transparency
+### Dynamic Panel Transparency
 
  Screenshot  | Description
 ---|-------
@@ -140,7 +141,7 @@ Links:
  - [GitHub Repository](https://github.com/rockon999/dynamic-panel-transparency)
 
 
-## Suspend Button
+### Suspend Button
 
  Screenshot  | Description
 ---|-------
@@ -157,7 +158,7 @@ Links:
  - [GitHub Repository](https://github.com/laserb/gnome-shell-extension-suspend-button)
 
 
-## Workspaces to Dock
+### Workspaces to Dock
 
  Screenshot  | Description
 ---|-------
@@ -172,3 +173,16 @@ Links:
 
  - [GNOME Extension](https://extensions.gnome.org/extension/427/workspaces-to-dock/)
  - [GitHub Repository](https://github.com/passingthru67/workspaces-to-dock)
+
+## Themes
+
+
+Theme          | GitHub | Project website| Design paradigm
+---------------|--------|----------------|----------------
+Arc Theme      | [Link](https://github.com/horst3180/arc-theme) | - | Flat design
+Flat Pat Theme | [Link](https://github.com/nana-4/Flat-Plat) | - | Material Design
+Paper Theme    | [Link](https://github.com/snwh/paper-gtk-theme) | [Link](https://snwh.org/paper) | Mostly flat design
+
+
+
+
