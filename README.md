@@ -21,14 +21,17 @@ So here is a list of my installed GNOME extensions:
 
 Extension | Purpose
 ----------|-----------
-[Caffeine](https://extensions.gnome.org/extension/517/caffeine/) | Disable the screensaver and auto suspend.
-[ShellTile](https://extensions.gnome.org/extension/657/shelltile/) | Extend the GNOME Shell with window tiling functionality.
-[AlternateTab](https://extensions.gnome.org/extension/15/alternatetab/) | Substitute Alt-Tab with a window based switcher that does not group by application.
-[Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/) | Add a category-based menu for applications.
-[Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) | Transform the dash from the GNOME application overview into a dock.
+[Caffeine](https://extensions.gnome.org/extension/517/caffeine/) | Disables the screensaver and auto suspend.
+[ShellTile](https://extensions.gnome.org/extension/657/shelltile/) | Extends the GNOME Shell with window tiling functionality.
+[AlternateTab](https://extensions.gnome.org/extension/15/alternatetab/) | Substitutes Alt-Tab with a window based switcher that does not group by application.
+[Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/) | Adds a category-based menu for applications.
+[Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) | Transforms the dash from the GNOME application overview into a dock.
 [Dynamic Panel Transparency](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/) | Make the black top panel transparent when there are no maximized windows present.
-[Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) | Add a suspend button to the GNOME status menu.
-[Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) | Transform GNOME Shell's overview workspaces into an intelligent dock.
+[Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) | Adds a suspend button to the GNOME status menu.
+[Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) | Transforms GNOME Shell's overview workspaces into an intelligent dock.
+[Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) | Transforms GNOME Shell's overview workspaces into an intelligent dock.
+[Hide Top Bar](https://extensions.gnome.org/extension/545/hide-top-bar/) | Hides the GNOME top panel bar.
+
 
 ## Extensions
 
@@ -41,7 +44,7 @@ Extension | Purpose
 
 Purpose:
 
- - Disable the screensaver and auto suspend.
+ - Disables the screensaver and auto suspend.
 
 
 Links:
@@ -59,7 +62,7 @@ Links:
 
 Purpose:
 
- - Extend the GNOME Shell with window tiling functionality.
+ - Extends the GNOME Shell with window tiling functionality.
 
 
 Links:
@@ -77,7 +80,7 @@ Links:
 
 Purpose:
 
- - Substitute Alt-Tab with a window based switcher that does not group by application.
+ - Substitutes Alt-Tab with a window based switcher that does not group by application.
 
 
 Links:
@@ -95,7 +98,7 @@ Links:
 
 Purpose:
 
- - Add a category-based menu for applications.
+ - Adds a category-based menu for applications.
 
 
 Links:
@@ -113,7 +116,7 @@ Links:
 
 Purpose:
 
- - Transform the dash from the GNOME application overview into a dock.
+ - Transforms the dash from the GNOME application overview into a dock.
 
 
 Links:
@@ -131,7 +134,7 @@ Links:
 
 Purpose:
 
- -  Make the top panel transparent when there are no maximized windows present.
+ -  Makes the top panel transparent when there are no maximized windows present.
 
 
 Links:
@@ -149,7 +152,7 @@ Links:
 
 Purpose:
 
- -  Add a suspend button to the GNOME status menu.
+ -  Adds a suspend button to the GNOME status menu.
 
 
 Links:
@@ -166,13 +169,30 @@ Links:
 
 Purpose:
 
- -  Transform GNOME Shell's overview workspaces into an intelligent dock.
+ -  Transforms GNOME Shell's overview workspaces into an intelligent dock.
 
 
 Links:
 
  - [GNOME Extension](https://extensions.gnome.org/extension/427/workspaces-to-dock/)
  - [GitHub Repository](https://github.com/passingthru67/workspaces-to-dock)
+
+### Hide Top Bar
+
+
+ Screenshot  | Description
+---|-------
+![Hide Top Bar](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/hide-top-bar.png)  | If you sometimes get distracted from the GNOME top panel or if you prefer a clean desktop then this extension might be useful for you.
+
+Purpose:
+
+ -  Hides the GNOME top panel bar.
+
+Links:
+
+ - [GNOME Extension](https://extensions.gnome.org/extension/545/hide-top-bar/)
+ - [GitHub Repository](https://github.com/mlutfy/hidetopbar)
+
 
 
 ## Themes
