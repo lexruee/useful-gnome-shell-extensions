@@ -206,7 +206,7 @@ Some nice Flat/Material themes are listed below:
 Theme          | GitHub | Project website| Design paradigm
 ---------------|--------|----------------|----------------
 Arc Theme      | [Link](https://github.com/horst3180/arc-theme) | - | Flat design
-Vertex Theme   | [Link](https://github.com/horst3180/vertex-theme) | Material design |
+Vertex Theme   | [Link](https://github.com/horst3180/vertex-theme) | - | Material design 
 Flat Pat Theme | [Link](https://github.com/nana-4/Flat-Plat) | - | Material design
 Paper Theme    | [Link](https://github.com/snwh/paper-gtk-theme) | [Link](https://snwh.org/paper) | Mostly flat design
 
