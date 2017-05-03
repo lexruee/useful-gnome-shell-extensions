@@ -26,7 +26,7 @@ Extension | Purpose
 [AlternateTab](https://extensions.gnome.org/extension/15/alternatetab/) | Substitutes Alt-Tab with a window based switcher that does not group by application.
 [Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/) | Adds a category-based menu for applications.
 [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) | Transforms the dash from the GNOME application overview into a dock.
-[Dynamic Panel Transparency](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/) | Make the black top panel transparent when there are no maximized windows present.
+[Dynamic Panel Transparency](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/) | Makes the black top panel transparent when there are no maximized windows present.
 [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) | Adds a suspend button to the GNOME status menu.
 [Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) | Transforms GNOME Shell's overview workspaces into an intelligent dock.
 [Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) | Transforms GNOME Shell's overview workspaces into an intelligent dock.
@@ -182,7 +182,7 @@ Links:
 
  Screenshot  | Description
 ---|-------
-![Hide Top Bar](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/hide-top-bar.png)  | If you sometimes get distracted from the GNOME top panel or if you prefer a clean desktop then this extension might be useful for you.
+![Hide Top Bar](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/hide-top-bar.png)  | If you sometimes get distracted from the GNOME top bar or if you prefer a clean desktop then this extension might be useful for you. The extension allows you to hide the top bar if a window is maximized, avoiding any waste of your desktop space.
 
 Purpose:
 
