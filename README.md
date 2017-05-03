@@ -8,13 +8,15 @@ They allow end users to customize their GNOME 3 Shell by installing a few
 extensions from the GNOME website [extensions.gnome.org](http://extensions.gnome.org).
 
 
-![GNOME 3 desktop environment](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/gnome3-de-800x450.png)
+![GNOME 3 desktop environment](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/gnome3-de-800x450-3.png)
+
+![GNOME 3 desktop environment](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/gnome3-de-800x450-2.png)
 
 
 Since I always forget the names of my favourite extensions,
 I decided to keep a list of these handy extensions.
 This is why this GitHub repository was created.
-The latter lists a few useful GNOME shell extensions that customize the vanilla GNOME 3 Shell into a more usable desktop environment. The screenshot above illustrates my customized GNOME 3 desktop
+The latter lists a few useful GNOME shell extensions that customize the vanilla GNOME 3 Shell into a more usable desktop environment. The screenshots above illustrate my customized GNOME 3 desktop
 once I installed and configured some extensions.
 
 So here is a list of my installed GNOME extensions:
