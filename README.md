@@ -31,7 +31,6 @@ Extension | Purpose
 [Dynamic Panel Transparency](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/) | Makes the black top panel transparent when there are no maximized windows present.
 [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) | Adds a suspend button to the GNOME status menu.
 [Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) | Transforms GNOME Shell's overview workspaces into an intelligent dock.
-[Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) | Transforms GNOME Shell's overview workspaces into an intelligent dock.
 [Hide Top Bar](https://extensions.gnome.org/extension/545/hide-top-bar/) | Hides the GNOME top panel bar.
 
 
