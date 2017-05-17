@@ -21,17 +21,17 @@ once I installed and configured some extensions.
 
 So here is a list of my installed GNOME extensions:
 
-Extension | Purpose
-----------|-----------
-[Caffeine](https://extensions.gnome.org/extension/517/caffeine/) | Disables the screensaver and auto suspend.
-[ShellTile](https://extensions.gnome.org/extension/657/shelltile/) | Extends the GNOME Shell with window tiling functionality.
-[AlternateTab](https://extensions.gnome.org/extension/15/alternatetab/) | Substitutes Alt-Tab with a window based switcher that does not group by application.
-[Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/) | Adds a category-based menu for applications.
-[Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) | Transforms the dash from the GNOME application overview into a dock.
-[Dynamic Panel Transparency](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/) | Makes the black top panel transparent when there are no maximized windows present.
-[Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) | Adds a suspend button to the GNOME status menu.
-[Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) | Transforms GNOME Shell's overview workspaces into an intelligent dock.
-[Hide Top Bar](https://extensions.gnome.org/extension/545/hide-top-bar/) | Hides the GNOME top panel bar.
+Extension | Github | Purpose
+----------|--------|-----------
+[Caffeine](https://extensions.gnome.org/extension/517/caffeine/) | [Link](https://github.com/eonpatapon/gnome-shell-extension-caffeine) | Disables the screensaver and auto suspend.
+[ShellTile](https://extensions.gnome.org/extension/657/shelltile/) | [Link](https://github.com/emasab/shelltile)| Extends the GNOME Shell with window tiling functionality.
+[AlternateTab](https://extensions.gnome.org/extension/15/alternatetab/) | - | Substitutes Alt-Tab with a window based switcher that does not group by application.
+[Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/) | - | Adds a category-based menu for applications.
+[Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)| [Link](https://github.com/micheleg/dash-to-dock.git) | Transforms the dash from the GNOME application overview into a dock.
+[Dynamic Panel Transparency](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/)| [Link](https://github.com/rockon999/dynamic-panel-transparency) | Makes the black top panel transparent when there are no maximized windows present.
+[Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/)| [Link](https://github.com/laserb/gnome-shell-extension-suspend-button) | Adds a suspend button to the GNOME status menu.
+[Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) | [Link](https://github.com/passingthru67/workspaces-to-dock) | Transforms GNOME Shell's overview workspaces into an intelligent dock.
+[Hide Top Bar](https://extensions.gnome.org/extension/545/hide-top-bar/) | [Link](https://github.com/mlutfy/hidetopbar) | Hides the GNOME top panel bar.
 
 
 ## Extensions
