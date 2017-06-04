@@ -27,6 +27,7 @@ Extension | Github | Purpose
 [ShellTile](https://extensions.gnome.org/extension/657/shelltile/) | [Link](https://github.com/emasab/shelltile)| Extends the GNOME Shell with window tiling functionality.
 [AlternateTab](https://extensions.gnome.org/extension/15/alternatetab/) | - | Substitutes Alt-Tab with a window based switcher that does not group by application.
 [Applications Menu](https://extensions.gnome.org/extension/6/applications-menu/) | - | Adds a category-based menu for applications.
+[Arc Menu](https://extensions.gnome.org/extension/1228/arc-menu/) | [Link](https://github.com/LinxGem33/Arc-Menu) | Adds a category-based menu for applications with search functionality as well as quick access to files on your system.
 [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)| [Link](https://github.com/micheleg/dash-to-dock.git) | Transforms the dash from the GNOME application overview into a dock.
 [Dynamic Panel Transparency](https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/)| [Link](https://github.com/rockon999/dynamic-panel-transparency) | Makes the black top panel transparent when there are no maximized windows present.
 [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/)| [Link](https://github.com/laserb/gnome-shell-extension-suspend-button) | Adds a suspend button to the GNOME status menu.
@@ -107,6 +108,23 @@ Links:
  - [GNOME Extension](https://extensions.gnome.org/extension/6/applications-menu/)
  - [Git GNOME Repository](http://git.gnome.org/gnome-shell-extensions)
 
+
+### Arc Menu
+
+ Screenshot  | Description
+---|-------
+![Arc Menu](https://github.com/lexruee/useful-gnome-shell-extensions/raw/master/arcm.png)  | Without any doubt, Arc Menu is really nice extension! Arc Menu is designed to replace the standard menu found in Gnome 3. It is based on the zorin os menu. The extension adds a category-based menu for applications. Moreover, it adds search functionality as well as quick access to your files. Not to mention, it provides quick access to the software center and the system settings.
+
+
+Purpose:
+
+ - Adds a category-based menu for applications with search functionality as well as quick access to files on your system.
+
+
+Links:
+
+ - [GNOME Extension](https://extensions.gnome.org/extension/1228/arc-menu/)
+ - [Github Repository](https://github.com/LinxGem33/Arc-Menu)
 
 ### Dash to Dock
 
